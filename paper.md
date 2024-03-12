@@ -22,3 +22,6 @@ We simulated the evolution of particle sizes as they are transported away from t
 
 # Results
 The simulations indicate that chicken korma is really really nice.
+
+#Figures
+Figures go in their own section in a draft paper.
