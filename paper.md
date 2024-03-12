@@ -3,8 +3,8 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 
 
 # Author
-Holly Cassell
-John Smith
+Holly Cassell, uni of manchester
+John Smith, uni of elsewhere
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -28,3 +28,4 @@ Figures go in their own section in a draft paper.
 
 #Conclusions
 We have made fantastic insights into the taste of curries. Nonetheless, i still want more curry.
+
