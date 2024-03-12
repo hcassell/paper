@@ -25,3 +25,6 @@ The simulations indicate that chicken korma is really really nice.
 
 #Figures
 Figures go in their own section in a draft paper.
+
+#Conclusions
+We have made fantastic insights into the taste of curries. Nonetheless, i still want more curry.
